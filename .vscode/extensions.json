@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "fill-labs.dependi",
+    "formulahendry.code-runner",
+    "golang.go",
+    "nhoizey.gremlins",
+    "be5invis.toml"
+    // "premparihar.gotestexplorer", useless, test explorer are build-in
+  ]
+}
